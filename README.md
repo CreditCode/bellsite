@@ -1,9 +1,9 @@
 # bellsite
-My Website // Made by luby
+My Website // made by creditc0dee, but pasted by luby.
 Working on different designs of the website
 
 Actual Website:
-http://bellez.tk/
+http://bellez.club
 
 Wanted to make this website to work on a loader for csgo cheats
 
